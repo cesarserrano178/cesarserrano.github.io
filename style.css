@@ -1,0 +1,8 @@
+.topImage{
+    width: 100vw;
+    height: 50vh;
+    background-image: url('park.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center -300px;
+}
